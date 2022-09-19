@@ -1,6 +1,6 @@
 # Getting Started with Notes App
 
-A simple notes app built on React (CRA), TypeScript and TailWindCSS. This could be starter app to build a solid notes app with a modern tech stack.
+A simple notes app built on React (CRA), TypeScript and TailWindCSS. This could be your starter app to build a solid notes app with a modern tech stack.
 
 ## Available Scripts
 
